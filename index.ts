@@ -1,6 +1,3 @@
 
-export * from './FaucetApi'
-export * from './FaucetConfig'
-export * from './FaucetContext'
-export * from './FaucetSession'
-export * from './FaucetTime'
+export * from './FaucetStatus'
+export * from './PassportInfo'
